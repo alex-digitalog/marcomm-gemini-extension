@@ -1,0 +1,14 @@
+{
+  "name": "marcomm-ai",
+  "version": "1.0.0",
+  "description": "Write, review and publish press releases and blog posts, and plan press events and RSVP, with Marcomm AI over MCP.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "marcomm": {
+      "httpUrl": "https://app.marcomm.works/api/mcp",
+      "oauth": {
+        "enabled": true
+      }
+    }
+  }
+}
